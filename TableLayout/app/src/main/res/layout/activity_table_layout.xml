@@ -18,11 +18,11 @@
          <TableRow>
              <TextView
                  android:text="列0"
-                 android:background="@drawable/dot"
+                 android:background="#0000aa"
                  />
              <TextView
                  android:text="列1"
-                 android:background="@drawable/dot"
+                 android:background="#aa0000"
                  />
          </TableRow>
        </TableLayout>
@@ -37,12 +37,12 @@
         <TableRow>
             <TextView
                 android:text="列0不能伸展"
-                android:background="@drawable/dot"
+                android:background="#aa0000"
                 />
             <TextView
                 android:text="列1可以伸展"
                 android:gravity="right"
-                android:background="@drawable/dot"
+                android:background="#0000aa"
                 />
         </TableRow>
     </TableLayout>
