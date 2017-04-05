@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SubMenu_exp</string>
+    <string name="hello">Hello world,MenuSub!</string>
+    <string name="title">搜索</string>
+    <string name="local">本地</string>
+    <string name="network">网络</string>
+
+</resources>
