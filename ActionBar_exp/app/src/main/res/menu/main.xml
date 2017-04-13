@@ -1,0 +1,18 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_setting"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:showAsAction="ifRoom"
+        android:title="日期"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_call"
+        android:icon="@android:drawable/sym_action_call"
+        android:showAsAction="ifRoom"
+        android:title="电话" />
+    <item
+        android:id="@+id/action_msm"
+        android:showAsAction="ifRoom|withText"
+        android:title="短信" />
+</menu>
